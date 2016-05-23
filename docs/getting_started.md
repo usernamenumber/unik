@@ -93,7 +93,7 @@ Ensure that each of the following are installed
   	]
   }
   ```
-  * For the purposes of this example, that matters here is `my_httpd`. It instructs the go compiler that the project should be installed from `$GOPATH/src/my_httpd`.
+  * For the purposes of this example, all that matters here is `my_httpd`. It instructs the go compiler that the project should be installed from `$GOPATH/src/my_httpd`.
 
 4. Great! Now we're ready to compile this code to a unikernel.
 
